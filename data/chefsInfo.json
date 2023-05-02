@@ -1,48 +1,54 @@
 [
   {
-    "chefPicture": "chef1.jpg",
-    "chefName": "Ahmad Khan",
-    "chefDescription": "Ahmad Khan is a renowned Arabian chef who specializes in traditional Arabian cuisine. He is known for his innovative recipes and creative presentations.",
+    "id": 1,
+    "chefPicture": "https://imgy.pro/foodtoday/640x740/editor/Image1_3202221163019459959300.jpg",
+    "chefName": "Bader Najeeb",
+    "chefDescription": "Bader Najeeb is a renowned Arabian chef who specializes in traditional Arabian cuisine. One of the youngest regional chefs is 23-year-old Emirati Bader Najeeb, who is more famously known as ‘Chef B’ on social media. Bader has been a whirlwind in the kitchen since he was 13-years-old, when his love for baking first started.",
     "yearsOfExperience": 15,
     "numberOfRecipes": 50,
     "likes": 5000
   },
   {
-    "chefPicture": "chef2.jpg",
-    "chefName": "Zahra Rahimi",
-    "chefDescription": "Zahra Rahimi is a talented Arabian chef with a passion for blending Arabian flavors with modern culinary techniques. She has been recognized for her culinary skills both locally and internationally.",
+    "id": 2,
+    "chefPicture": "https://www.tasteofhome.com/wp-content/uploads/2021/11/sami-tamimi-via-instagram-e1637008056865.jpg?resize=700,700",
+    "chefName": "Sami Tamimi",
+    "chefDescription": "Award-winning Palestinian chef Sami Tamimi is the co-founder and head of the Ottolenghi restaurants, creating new dishes and innovative menus, and writing three bestselling cookbooks: 'Ottolenghi: The Cookbook', 'Jerusalem: A Cookbook' and 'Falastin: A Cookbook'.",
     "yearsOfExperience": 10,
     "numberOfRecipes": 35,
     "likes": 3000
   },
   {
-    "chefPicture": "chef3.jpg",
-    "chefName": "Mohammed Amin",
-    "chefDescription": "Mohammed Amin is a veteran Arabian chef who has dedicated his life to preserving and promoting Arabian cuisine. With over 30 years of experience, he has mastered the art of traditional Arabian cooking.",
+    "id": 3,
+    "chefPicture": "https://www.whatawonderfulworld.guide/wp-content/uploads/2020/08/CHEF-IZU-ANI.jpg",
+    "chefName": "IZU ANI",
+    "chefDescription": "Nigerian born and London bred Izu Ani is known as a dynamic chef behind some of Dubai’s most exciting projects. He was the head chef at La Petite Maison, and La Serre Bistro and Boulangerie. He has since set up his own restaurants – each focus on various parts of the world, from Asian Aya and Greek Gaia to French-Mediterranean Carine and Fika.",
     "yearsOfExperience": 30,
     "numberOfRecipes": 100,
     "likes": 8000
   },
   {
-    "chefPicture": "chef4.jpg",
-    "chefName": "Sara Ali",
-    "chefDescription": "Sara Ali is a young and talented Arabian chef who brings a fresh perspective to Arabian cuisine. She is known for her unique fusion dishes that combine Arabian flavors with international influences.",
-    "yearsOfExperience": 5,
+    "id": 4,
+    "chefPicture": "https://lh5.googleusercontent.com/XTHuyNmSvGGKOckjbv9x7i6qizMrX0yDC-8GQnD156pyp2-0iwH8TvPSRupsBq-hRV65hs06vqaZ72C6ivwXgTO33fzLbNKzVRqtqM6Y1uZ4SZz-qFMbYXiMyhvpdM8mgZLPYiVE",
+    "chefName": "Nusret Gökçe",
+    "chefDescription": "Nusret Gökçe nicknamed Salt Bae, is a Turkish butcher, chef, food entertainer and restaurateur whose technique for preparing and seasoning meat became an Internet meme in January 2017. He owns Nusr-Et, a chain of luxury steak houses. As of 2021, he has Nusr-Et branches in Turkey, Greece, the United States, the United Kingdom, the United Arab Emirates, Qatar, and Saudi Arabia. The name of his restaurant chain comes from his own name and 'Et', which means 'meat' in Turkish.",
+    "yearsOfExperience": 23,
     "numberOfRecipes": 20,
     "likes": 2000
   },
   {
-    "chefPicture": "chef5.jpg",
-    "chefName": "Rahim Khan",
-    "chefDescription": "Rahim Khan is an Arabian chef with a deep understanding of Arabian culinary traditions. His recipes are rooted in Arabian heritage and he strives to preserve the authentic flavors of Arabian cuisine.",
+    "id": 5,
+    "chefPicture": "https://lh3.googleusercontent.com/lfNPl7ZKHGu6hNMYSOqXizjdrZss_10XPJ3tvQXq4lK74Zc-PLTwRey4rORs9vOUFgADwdiIttgGJLoT7ZJdpwSfap6lYSdDochpATbCSpmYh1CNc6vxQIab8pccKAlcVkS5kg9u",
+    "chefName": "Burak Özdemir",
+    "chefDescription": "Burak Özdemir, nicknamed CZN Burak, was born in 1994. He is a Turkish chef and restaurateur, owner of the Hatay Civilizations Table restaurant chain. His famous chain has a total of five branches: Taksim, Aksaray, Etiler, and foreign branches in Dubai, the Kurdistan Region, and Tajikistan, CZN.",
     "yearsOfExperience": 12,
     "numberOfRecipes": 45,
     "likes": 4000
   },
   {
-    "chefPicture": "chef6.jpg",
-    "chefName": "Mariam Aziz",
-    "chefDescription": "Mariam Aziz is an Arabian chef known for her creative and visually stunning dishes. She combines traditional Arabian ingredients with modern plating techniques to create culinary works of art.",
+    "id": 6,
+    "chefPicture": "https://www.tasteofhome.com/wp-content/uploads/2021/11/shahor-massoud-via-instagram.jpg?resize=700,700",
+    "chefName": "Shahir Massoud",
+    "chefDescription": "You might recognize Egyptian-Canadian chef Shahir Massoud from national television—most recently, as the former host of CBC’s The Goods, Man of the Kitchen and Around the World in 8 Meals. Shahir is the author of 'Eat, Habibi, Eat!', a cookbook exploring modern Egyptian dishes. He aims to share Egyptian recipes in a way that honors the multiple cultures he grew up with.",
     "yearsOfExperience": 8,
     "numberOfRecipes": 30,
     "likes": 2500

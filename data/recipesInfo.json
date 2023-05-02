@@ -1,0 +1,369 @@
+[
+  {
+    "id": 1,
+    "name": "Fattoush Salad",
+    "ingredients": [
+      "1 head romaine lettuce, chopped",
+      "1 cucumber, diced",
+      "2 tomatoes, diced",
+      "1 red onion, sliced",
+      "1 green bell pepper, diced",
+      "1/2 cup chopped fresh parsley",
+      "1/2 cup chopped fresh mint",
+      "1/2 cup chopped fresh cilantro",
+      "1/4 cup olive oil",
+      "2 tbsp lemon juice",
+      "1 tsp sumac",
+      "1 tsp salt",
+      "1/4 tsp black pepper",
+      "1 garlic clove, minced"
+    ],
+    "cooking_method": "1. In a large bowl, combine the chopped romaine lettuce, diced cucumber, diced tomatoes, sliced red onion, diced green bell pepper, chopped parsley, chopped mint, and chopped cilantro. \n2. In a small bowl, whisk together the olive oil, lemon juice, sumac, salt, black pepper, and minced garlic. \n3. Pour the dressing over the salad and toss to combine. Serve immediately.",
+    "rating": 4.5
+  },
+  {
+    "id": 2,
+    "name": "Hummus",
+    "ingredients": [
+      "1 can (15 oz) chickpeas",
+      "1/4 cup tahini",
+      "1/4 cup lemon juice",
+      "1/4 cup olive oil",
+      "1 garlic clove, minced",
+      "1/2 tsp cumin",
+      "1/2 tsp salt",
+      "2-3 tbsp water",
+      "1 tbsp chopped parsley (optional)"
+    ],
+    "cooking_method": "1. Drain and rinse the chickpeas. \n2. In a food processor, combine the chickpeas, tahini, lemon juice, olive oil, minced garlic, cumin, and salt. Pulse until smooth, scraping down the sides as needed. \n3. With the motor running, slowly pour in the water until the hummus reaches your desired consistency. \n4. Transfer the hummus to a serving bowl, drizzle with olive oil and sprinkle with chopped parsley (optional). Serve with pita bread, crackers, or vegetables.",
+    "rating": 5
+  },
+  {
+    "id": 3,
+    "name": "Tabbouleh",
+    "ingredients": [
+      "1 cup bulgur wheat",
+      "2 cups chopped fresh parsley",
+      "1/2 cup chopped fresh mint",
+      "4 green onions, thinly sliced",
+      "2 tomatoes, diced",
+      "1 cucumber, diced",
+      "1/4 cup olive oil",
+      "1/4 cup lemon juice",
+      "1/2 tsp salt",
+      "1/4 tsp black pepper"
+    ],
+    "cooking_method": "1. In a large bowl, pour boiling water over the bulgur wheat and let sit for 30 minutes, until tender. Drain any excess water.\n2. Add the chopped parsley, chopped mint, thinly sliced green onions, diced tomatoes, and diced cucumber to the bowl with the bulgur wheat.\n3. In a small bowl, whisk together the olive oil, lemon juice, salt, and black pepper. Pour the dressing over the salad and toss to combine.\n4. Serve immediately, or refrigerate for a few hours to allow the flavors to meld together.",
+    "rating": 4.7
+  },
+  {
+    "id": 4,
+    "name": "Mansaf",
+    "ingredients": [
+      "2 lbs lamb shoulder, cut into chunks",
+      "2 cups plain yogurt",
+      "3 cups water",
+      "2 cups long-grain rice",
+      "1/2 cup ghee",
+      "1/2 cup toasted almonds",
+      "1/4 cup pine nuts",
+      "1/4 cup chopped fresh parsley",
+      "1/4 cup chopped fresh mint",
+      "1 onion, finely chopped",
+      "4 cloves garlic, minced",
+      "1 tsp ground cumin",
+      "1 tsp ground coriander",
+      "1 tsp ground turmeric",
+      "Salt and pepper to taste"
+    ],
+    "cooking_method": "1. In a large pot, heat the ghee over medium heat. Add the chopped onion and minced garlic, and sauté until softened. \n2. Add the lamb shoulder chunks to the pot and brown them on all sides. \n3. Add the ground cumin, ground coriander, ground turmeric, salt, and pepper to the pot, and stir to coat the meat. \n4. Pour in the water, cover the pot, and let the lamb simmer for about 1.5 to 2 hours, or until tender. \n5. In a separate bowl, whisk the plain yogurt until smooth. Gradually add the yogurt to the pot, stirring continuously. \n6. Meanwhile, cook the rice according to the package instructions. \n7. To serve, spread the cooked rice on a large platter. Place the tender lamb pieces on top of the rice. \n8. Garnish with toasted almonds, pine nuts, chopped parsley, and chopped mint. Serve hot.",
+    "rating": 4.8
+  },
+  {
+    "id": 5,
+    "name": "Moutabal",
+    "ingredients": [
+      "2 large eggplants",
+      "1/4 cup tahini",
+      "2 cloves garlic, minced",
+      "2 tbsp lemon juice",
+      "2 tbsp olive oil",
+      "Salt and pepper to taste",
+      "Chopped fresh parsley for garnish"
+    ],
+    "cooking_method": "1. Preheat the oven to 400°F (200°C). \n2. Pierce the eggplants with a fork in several places. Place them on a baking sheet and roast in the preheated oven for about 40-45 minutes, or until the eggplants are tender and the skin is charred. \n3. Remove the eggplants from the oven and let them cool. Once cooled, peel off the charred skin and discard. \n4. In a food processor, combine the roasted eggplant flesh, tahini, minced garlic, lemon juice, olive oil, salt, and pepper. Pulse until smooth. \n5. Transfer the moutabal to a serving dish and garnish with chopped parsley. Serve with pita bread or vegetables.",
+    "rating": 4.6
+  },
+  {
+    "id": 6,
+    "name": "Shawarma",
+    "ingredients": [
+      "1 lb boneless chicken or beef, thinly sliced",
+      "1/4 cup plain yogurt",
+      "2 tbsp lemon juice",
+      "2 cloves garlic, minced",
+      "1 tsp ground cumin",
+      "1 tsp ground coriander",
+      "1 tsp ground paprika",
+      "1/2 tsp ground turmeric",
+      "1/2 tsp ground cinnamon",
+      "Salt and pepper to taste",
+      "2 tbsp olive oil",
+      "4 pita bread",
+      "Sliced tomatoes, cucumbers, and onions",
+      "Tahini sauce or garlic sauce for serving"
+    ],
+    "cooking_method": "1. In a bowl, combine the plain yogurt, lemon juice, minced garlic, ground cumin, ground coriander, ground paprika, ground turmeric, ground cinnamon, salt, and pepper. \n2. Add the thinly sliced chicken or beef to the marinade, ensuring it is well coated. Allow it to marinate for at least 1 hour, or refrigerate overnight for best results. \n3. Heat olive oil in a skillet over medium-high heat. Cook the marinated meat in batches until browned and cooked through. \n4. Warm the pita bread in a dry skillet or toaster. \n5. To assemble, place a few slices of cooked meat onto each warmed pita bread. Top with sliced tomatoes, cucumbers, and onions. \n6. Drizzle with tahini sauce or garlic sauce. Roll up the pita bread tightly and serve.",
+    "rating": 4.9
+  },
+  {
+    "id": 7,
+    "name": "Arabian Chicken Mandi",
+    "ingredients": [
+      "2 cups basmati rice",
+      "1 whole chicken, cut into pieces",
+      "4 tablespoons ghee",
+      "2 onions, sliced",
+      "4 cloves garlic, minced",
+      "2 tablespoons Mandi spice mix",
+      "1 teaspoon ground turmeric",
+      "1 teaspoon ground cumin",
+      "1 teaspoon ground coriander",
+      "1 teaspoon ground cardamom",
+      "1 teaspoon ground cinnamon",
+      "Salt to taste",
+      "4 cups chicken broth"
+    ],
+    "cooking_method": "1. Rinse the basmati rice in cold water until the water runs clear, then drain.\n2. Heat the ghee in a large pot over medium heat. Add the sliced onions and minced garlic, and sauté until golden brown.\n3. Add the Mandi spice mix, ground turmeric, ground cumin, ground coriander, ground cardamom, ground cinnamon, and salt. Stir to combine.\n4. Add the chicken pieces to the pot and cook until browned on all sides.\n5. Pour in the chicken broth and bring to a boil. Reduce the heat to low, cover the pot, and simmer for about 30 minutes, or until the chicken is cooked through and tender.\n6. In a separate pot, bring water to a boil and add the rinsed basmati rice. Cook until the rice is tender, then drain.\n7. Serve the Arabian Chicken Mandi by placing a portion of cooked rice on a plate, topping it with a piece of chicken, and spooning some of the flavorful broth over it. Enjoy!",
+    "rating": 4.8
+  },
+  {
+    "id": 8,
+    "name": "Falafel",
+    "ingredients": [
+      "2 cups dried chickpeas",
+      "1 small onion, roughly chopped",
+      "4 cloves garlic",
+      "1/2 cup fresh parsley leaves",
+      "1/2 cup fresh cilantro leaves",
+      "1 teaspoon ground cumin",
+      "1 teaspoon ground coriander",
+      "1 teaspoon baking powder",
+      "1 tablespoon all-purpose flour",
+      "Salt and pepper to taste",
+      "Vegetable oil for frying"
+    ],
+    "cooking_method": "1. Place the dried chickpeas in a bowl and cover them with water. Let them soak overnight.\n2. Drain the soaked chickpeas and transfer them to a food processor. Add the onion, garlic, parsley, cilantro, cumin, coriander, baking powder, flour, salt, and pepper.\n3. Pulse the mixture until well combined and the chickpeas are finely ground, but not pureed. The mixture should hold its shape when pressed together.\n4. Transfer the falafel mixture to a bowl, cover, and refrigerate for at least 1 hour.\n5. Heat vegetable oil in a deep pot or skillet over medium-high heat. Shape the falafel mixture into small patties or balls and carefully drop them into the hot oil.\n6. Fry the falafel until golden brown and crispy on all sides. Remove them from the oil and drain on a paper towel-lined plate.\n7. Serve the falafel in pita bread or as part of a salad, and accompany it with tahini sauce or tzatziki. Enjoy!",
+    "rating": 4.6
+  },
+  {
+    "id": 9,
+    "name": "Shawarma Wrap",
+    "ingredients": [
+      "1 lb boneless chicken or beef, thinly sliced",
+      "2 tablespoons olive oil",
+      "2 tablespoons lemon juice",
+      "3 cloves garlic, minced",
+      "1 teaspoon ground cumin",
+      "1 teaspoon ground coriander",
+      "1 teaspoon paprika",
+      "1/2 teaspoon ground turmeric",
+      "1/2 teaspoon ground cinnamon",
+      "Salt and pepper to taste",
+      "4 large pita bread",
+      "Shredded lettuce",
+      "Sliced tomatoes",
+      "Sliced cucumbers",
+      "Sliced onions",
+      "Tahini sauce or garlic sauce for serving"
+    ],
+    "cooking_method": "1. In a bowl, combine the olive oil, lemon juice, minced garlic, ground cumin, ground coriander, paprika, ground turmeric, ground cinnamon, salt, and pepper to make the marinade.\n2. Add the thinly sliced chicken or beef to the marinade, ensuring it is well coated. Allow it to marinate for at least 1 hour, or refrigerate overnight for best results.\n3. Heat a skillet over medium-high heat and cook the marinated meat until browned and cooked through.\n4. Warm the pita bread in a dry skillet or toaster.\n5. To assemble the shawarma wraps, spread a layer of tahini sauce or garlic sauce on the warmed pita bread. Top with shredded lettuce, sliced tomatoes, sliced cucumbers, sliced onions, and the cooked meat.\n6. Roll up the pita bread tightly, tucking in the sides as you go. Slice in half if desired, and serve the delicious shawarma wraps.",
+    "rating": 4.9
+  },
+  {
+    "id": 10,
+    "name": "Kunafa",
+    "ingredients": [
+      "1 lb kunafa dough",
+      "1 cup unsalted butter, melted",
+      "2 cups shredded mozzarella cheese",
+      "1 cup shredded akkawi cheese",
+      "1/2 cup granulated sugar",
+      "1 teaspoon orange blossom water",
+      "1 teaspoon rose water",
+      "1 cup simple syrup",
+      "Chopped pistachios or almonds for garnish"
+    ],
+    "cooking_method": "1. Preheat the oven to 350°F (175°C).\n2. In a large bowl, mix the shredded mozzarella cheese and shredded akkawi cheese together. Set aside.\n3. Grease a round baking dish with melted butter.\n4. Take half of the kunafa dough and spread it evenly on the bottom of the baking dish, pressing it firmly.\n5. Sprinkle the cheese mixture evenly over the kunafa dough.\n6. In a small bowl, mix the granulated sugar, orange blossom water, and rose water together. Sprinkle this sugar mixture evenly over the cheese layer.\n7. Take the remaining half of the kunafa dough and spread it evenly over the cheese layer, pressing it firmly.\n8. Drizzle the melted butter over the top layer of kunafa dough, making sure to cover it completely.\n9. Bake in the preheated oven for about 30-40 minutes, or until the kunafa turns golden brown and crispy.\n10. Remove from the oven and immediately pour the simple syrup evenly over the hot kunafa.\n11. Allow the kunafa to cool for a few minutes.\n12. Garnish with chopped pistachios or almonds.\n13. Cut into slices and serve the delicious kunafa warm or at room temperature.",
+    "rating": 4.7
+  },
+  {
+    "id": 11,
+    "name": "Harees",
+    "ingredients": [
+      "1 cup cracked wheat",
+      "1 cup chicken or lamb, cut into pieces",
+      "4 cups water",
+      "1 teaspoon ground cinnamon",
+      "1/2 teaspoon ground cardamom",
+      "1/4 teaspoon ground nutmeg",
+      "Salt to taste",
+      "1 tablespoon ghee",
+      "1/4 cup milk",
+      "Chopped nuts for garnish"
+    ],
+    "cooking_method": "1. In a large pot, combine the cracked wheat, chicken or lamb pieces, water, ground cinnamon, ground cardamom, ground nutmeg, and salt.\n2. Bring the mixture to a boil over medium heat, then reduce the heat to low and simmer for about 1-2 hours, stirring occasionally, until the wheat and meat are very soft and tender.\n3. Use a blender or immersion blender to blend the mixture until smooth and creamy.\n4. In a separate small pan, heat the ghee over low heat. Add the milk and stir until warmed through.\n5. Pour the warmed ghee and milk mixture into the pot with the blended wheat and meat mixture. Stir well to combine.\n6. Continue cooking the Harees over low heat for another 10-15 minutes, stirring constantly, until it thickens to a porridge-like consistency.\n7. Serve the Harees hot, garnished with chopped nuts. Enjoy this comforting Arabian dish!",
+    "rating": 4.6
+  },
+  {
+    "id": 12,
+    "name": "Kabsa",
+    "ingredients": [
+      "2 cups basmati rice",
+      "1 lb chicken, cut into pieces",
+      "2 tablespoons vegetable oil",
+      "2 onions, finely chopped",
+      "4 cloves garlic, minced",
+      "2 tomatoes, chopped",
+      "2 tablespoons tomato paste",
+      "1 tablespoon ground cumin",
+      "1 tablespoon ground coriander",
+      "1 teaspoon ground turmeric",
+      "1 teaspoon ground cardamom",
+      "1 teaspoon ground cinnamon",
+      "Salt and pepper to taste",
+      "4 cups chicken broth",
+      "Chopped fresh cilantro for garnish",
+      "Lemon wedges for serving"
+    ],
+    "cooking_method": "1. Rinse the basmati rice in cold water until the water runs clear, then drain.\n2. In a large pot, heat the vegetable oil over medium heat. Add the chopped onions and minced garlic, and sauté until golden brown.\n3. Add the chicken pieces to the pot and cook until browned on all sides.\n4. Stir in the chopped tomatoes, tomato paste, ground cumin, ground coriander, ground turmeric, ground cardamom, ground cinnamon, salt, and pepper. Cook for a few minutes until the tomatoes are softened.\n5. Add the rinsed basmati rice to the pot and stir to coat it with the spices and tomato mixture.\n6. Pour in the chicken broth and bring to a boil. Reduce the heat to low, cover the pot, and simmer for about 20-25 minutes, or until the rice is cooked and fluffy.\n7. Fluff the rice with a fork and garnish with chopped fresh cilantro.\n8. Serve the Kabsa hot, with lemon wedges on the side. Enjoy this flavorful Arabian dish!",
+    "rating": 4.8
+  },
+  {
+    "id": 13,
+    "recipe_name": "Burak Özdemir's Lahmacun (Turkish Pizza)",
+    "ingredients": [
+      "For the dough:",
+      "500g all-purpose flour",
+      "1 1/2 tsp. instant yeast",
+      "1 tsp. salt",
+      "1 tsp. sugar",
+      "1/4 cup olive oil",
+      "1 1/4 cups warm water",
+      "For the topping:",
+      "300g ground lamb or beef",
+      "1 large onion, finely chopped",
+      "2 large tomatoes, finely chopped",
+      "2 tbsp. tomato paste",
+      "2 tbsp. red pepper paste",
+      "1/2 cup finely chopped parsley",
+      "1 tsp. ground cumin",
+      "1 tsp. paprika",
+      "1 tsp. dried oregano",
+      "1/2 tsp. salt",
+      "1/2 tsp. black pepper"
+    ],
+    "cooking_method": [
+      "For the dough, mix together the flour, yeast, salt, sugar, and olive oil in a large mixing bowl. Add the warm water and mix until a smooth dough forms. Cover the bowl with a clean kitchen towel and let the dough rest in a warm, draft-free place for about 1 hour or until it doubles in size.",
+      "For the topping, mix together the ground meat, onion, tomatoes, tomato paste, red pepper paste, parsley, cumin, paprika, oregano, salt, and black pepper in a large mixing bowl.",
+      "Preheat the oven to 250°C. Divide the dough into 8 equal pieces and roll each piece out into a thin circle. Place the circles on a baking sheet lined with parchment paper.",
+      "Spread the meat mixture evenly over each dough circle, leaving a small border around the edges.",
+      "Bake the lahmacuns in the preheated oven for 10-12 minutes, or until the crust is golden brown and crispy.",
+      "Serve hot with a squeeze of lemon juice and some fresh parsley."
+    ],
+    "rating": 4.9
+  },
+  {
+    "id": 14,
+    "recipe_name": "Burak Özdemir's Turkish Meatballs (Köfte)",
+    "ingredients": [
+      "500g minced beef",
+      "1 large onion, grated",
+      "1 cup breadcrumbs",
+      "1 egg",
+      "1 tsp. salt",
+      "1 tsp. ground cumin",
+      "1 tsp. paprika",
+      "1 tsp. dried oregano",
+      "1 tsp. dried mint",
+      "1/2 tsp. black pepper",
+      "1/2 tsp. red pepper flakes",
+      "Oil for frying"
+    ],
+    "cooking_method": [
+      "In a large mixing bowl, mix together the minced beef, grated onion, breadcrumbs, egg, salt, cumin, paprika, oregano, mint, black pepper, and red pepper flakes until well combined.",
+      "Form the mixture into small meatballs, about the size of a golf ball.",
+      "Heat oil in a large pan over medium-high heat. Fry the meatballs in batches until browned and cooked through, about 5 minutes per batch.",
+      "Serve hot with your choice of dipping sauce or condiment."
+    ],
+    "rating": 4.8
+  },
+  {
+    "id": 15,
+    "name": "Burak Özdemir's Turkish Pide",
+    "ingredients": [
+      "2 cups all-purpose flour",
+      "1 teaspoon instant yeast",
+      "1 teaspoon sugar",
+      "1 teaspoon salt",
+      "1 tablespoon olive oil",
+      "3/4 cup warm water",
+      "1/2 cup ground beef or lamb",
+      "1 onion, finely chopped",
+      "1 tomato, diced",
+      "1/2 cup chopped bell peppers",
+      "1 teaspoon ground cumin",
+      "1 teaspoon paprika",
+      "Salt and pepper to taste",
+      "1/4 cup chopped fresh parsley",
+      "1/4 cup crumbled feta cheese",
+      "1 tablespoon melted butter"
+    ],
+    "cooking_method": "1. In a mixing bowl, combine the flour, instant yeast, sugar, and salt. Add the olive oil and warm water. Mix until a soft dough forms.\n2. Knead the dough for about 5 minutes, until smooth and elastic. Cover the bowl with a damp cloth and let the dough rest for 1 hour, or until it doubles in size.\n3. Preheat the oven to 475°F (245°C).\n4. In a skillet, cook the ground beef or lamb over medium heat until browned. Add the chopped onion, diced tomato, chopped bell peppers, ground cumin, paprika, salt, and pepper. Cook until the vegetables soften.\n5. Punch down the dough and divide it into two equal portions. Roll out each portion into an oval shape.\n6. Place the rolled dough on a baking sheet. Spread half of the meat and vegetable mixture onto each dough oval. Sprinkle with chopped fresh parsley and crumbled feta cheese.\n7. Bake in the preheated oven for about 12-15 minutes, or until the edges are golden brown.\n8. Remove from the oven, brush the pides with melted butter, and serve hot. Enjoy Burak Özdemir's delicious Turkish pide!",
+    "rating": 4.9
+  },
+  {
+    "id": 16,
+    "name": "Salt Bae's Classic Steak",
+    "ingredients": [
+      "1 lb steak (such as ribeye or sirloin)",
+      "Salt to taste",
+      "Black pepper to taste",
+      "Olive oil"
+    ],
+    "cooking_method": "1. Preheat a grill or grill pan to high heat.\n2. Rub the steak with olive oil and season generously with salt and black pepper on both sides.\n3. Place the steak on the grill and cook for about 4-5 minutes per side for medium-rare, or adjust the cooking time to your desired doneness.\n4. Remove the steak from the grill and let it rest for a few minutes.\n5. Slice the steak against the grain and serve hot. Enjoy Salt Bae's classic steak!",
+    "rating": 4.7
+  },
+  {
+    "id": 17,
+    "name": "Salt Bae's Garlic Butter Steak",
+    "ingredients": [
+      "1 lb steak (such as ribeye or filet mignon)",
+      "Salt to taste",
+      "Black pepper to taste",
+      "2 tablespoons butter",
+      "3 cloves garlic, minced",
+      "Fresh parsley for garnish"
+    ],
+    "cooking_method": "1. Season the steak with salt and black pepper on both sides.\n2. Heat a large skillet over high heat and add the butter. Let it melt and sizzle.\n3. Add the minced garlic to the skillet and cook for about 1 minute, stirring constantly.\n4. Place the steak in the skillet and cook for about 4-5 minutes per side for medium-rare, or adjust the cooking time to your desired doneness.\n5. Baste the steak with the garlic butter while cooking.\n6. Remove the steak from the skillet and let it rest for a few minutes.\n7. Slice the steak against the grain, drizzle with the remaining garlic butter from the skillet, and garnish with fresh parsley.\n8. Serve hot and savor the rich flavors of Salt Bae's garlic butter steak!",
+    "rating": 4.9
+  },
+  {
+    "id": 18,
+    "name": "Salt Bae's Spicy Chimichurri Steak",
+    "ingredients": [
+      "1 lb steak (such as skirt steak or flank steak)",
+      "Salt to taste",
+      "Black pepper to taste",
+      "2 tablespoons olive oil",
+      "3 tablespoons red wine vinegar",
+      "1/2 cup fresh parsley, finely chopped",
+      "2 cloves garlic, minced",
+      "1 shallot, finely chopped",
+      "1 tablespoon crushed red pepper flakes (adjust to taste)",
+      "Lime wedges for serving"
+    ],
+    "cooking_method": "1. Season the steak with salt and black pepper on both sides.\n2. In a small bowl, whisk together the olive oil, red wine vinegar, chopped parsley, minced garlic, shallot, and crushed red pepper flakes.\n3. Place the steak in a shallow dish and pour half of the chimichurri sauce over it, ensuring it is coated on all sides. Let it marinate for at least 30 minutes, or longer for more flavor.\n4. Preheat a grill or grill pan to high heat.\n5. Remove the steak from the marinade, allowing any excess marinade to drip off.\n6. Grill the steak for about 4-6 minutes per side, depending on the thickness of the steak and your desired level of doneness.\n7. Remove the steak from the grill and let it rest for a few minutes.\n8. Slice the steak against the grain and serve it with the remaining chimichurri sauce.\n9. Garnish with lime wedges for an extra burst of flavor.\n10. Enjoy Salt Bae's spicy chimichurri steak and savor the combination of tender meat and zesty sauce!",
+    "rating": 4.8
+  }
+]
