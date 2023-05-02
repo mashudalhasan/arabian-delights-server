@@ -1,0 +1,50 @@
+[
+  {
+    "chefPicture": "chef1.jpg",
+    "chefName": "Ahmad Khan",
+    "chefDescription": "Ahmad Khan is a renowned Arabian chef who specializes in traditional Arabian cuisine. He is known for his innovative recipes and creative presentations.",
+    "yearsOfExperience": 15,
+    "numberOfRecipes": 50,
+    "likes": 5000
+  },
+  {
+    "chefPicture": "chef2.jpg",
+    "chefName": "Zahra Rahimi",
+    "chefDescription": "Zahra Rahimi is a talented Arabian chef with a passion for blending Arabian flavors with modern culinary techniques. She has been recognized for her culinary skills both locally and internationally.",
+    "yearsOfExperience": 10,
+    "numberOfRecipes": 35,
+    "likes": 3000
+  },
+  {
+    "chefPicture": "chef3.jpg",
+    "chefName": "Mohammed Amin",
+    "chefDescription": "Mohammed Amin is a veteran Arabian chef who has dedicated his life to preserving and promoting Arabian cuisine. With over 30 years of experience, he has mastered the art of traditional Arabian cooking.",
+    "yearsOfExperience": 30,
+    "numberOfRecipes": 100,
+    "likes": 8000
+  },
+  {
+    "chefPicture": "chef4.jpg",
+    "chefName": "Sara Ali",
+    "chefDescription": "Sara Ali is a young and talented Arabian chef who brings a fresh perspective to Arabian cuisine. She is known for her unique fusion dishes that combine Arabian flavors with international influences.",
+    "yearsOfExperience": 5,
+    "numberOfRecipes": 20,
+    "likes": 2000
+  },
+  {
+    "chefPicture": "chef5.jpg",
+    "chefName": "Rahim Khan",
+    "chefDescription": "Rahim Khan is an Arabian chef with a deep understanding of Arabian culinary traditions. His recipes are rooted in Arabian heritage and he strives to preserve the authentic flavors of Arabian cuisine.",
+    "yearsOfExperience": 12,
+    "numberOfRecipes": 45,
+    "likes": 4000
+  },
+  {
+    "chefPicture": "chef6.jpg",
+    "chefName": "Mariam Aziz",
+    "chefDescription": "Mariam Aziz is an Arabian chef known for her creative and visually stunning dishes. She combines traditional Arabian ingredients with modern plating techniques to create culinary works of art.",
+    "yearsOfExperience": 8,
+    "numberOfRecipes": 30,
+    "likes": 2500
+  }
+]
