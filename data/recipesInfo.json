@@ -2,6 +2,11 @@
   {
     "id": 1,
     "name": "Fattoush Salad",
+    "chefName": "Bader Najeeb",
+    "chefDescription": "Bader Najeeb is a renowned Arabian chef who specializes in traditional Arabian cuisine. One of the youngest regional chefs is 23-year-old Emirati Bader Najeeb, who is more famously known as ‘Chef B’ on social media. Bader has been a whirlwind in the kitchen since he was 13-years-old, when his love for baking first started.",
+    "chefPicture": "https://imgy.pro/foodtoday/640x740/editor/Image1_3202221163019459959300.jpg",
+    "image": "https://www.jocooks.com/wp-content/uploads/2014/09/fattoush-salad-1-9.jpg",
+    "category_id": 1,
     "ingredients": [
       "1 head romaine lettuce, chopped",
       "1 cucumber, diced",
@@ -24,6 +29,11 @@
   {
     "id": 2,
     "name": "Hummus",
+    "chefName": "Bader Najeeb",
+    "chefDescription": "Bader Najeeb is a renowned Arabian chef who specializes in traditional Arabian cuisine. One of the youngest regional chefs is 23-year-old Emirati Bader Najeeb, who is more famously known as ‘Chef B’ on social media. Bader has been a whirlwind in the kitchen since he was 13-years-old, when his love for baking first started.",
+    "chefPicture": "https://imgy.pro/foodtoday/640x740/editor/Image1_3202221163019459959300.jpg",
+    "image": "https://www.seriouseats.com/thmb/Y1y-PfXuk1swDWo3_CGtAmQ3c64=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/israeli-style-extra-smooth-hummus-recipe-hero-03_1-c5024cd79b3c4867899e96833dd2c251.JPG",
+    "category_id": 1,
     "ingredients": [
       "1 can (15 oz) chickpeas",
       "1/4 cup tahini",
@@ -41,6 +51,11 @@
   {
     "id": 3,
     "name": "Tabbouleh",
+    "chefName": "Bader Najeeb",
+    "chefDescription": "Bader Najeeb is a renowned Arabian chef who specializes in traditional Arabian cuisine. One of the youngest regional chefs is 23-year-old Emirati Bader Najeeb, who is more famously known as ‘Chef B’ on social media. Bader has been a whirlwind in the kitchen since he was 13-years-old, when his love for baking first started.",
+    "chefPicture": "https://imgy.pro/foodtoday/640x740/editor/Image1_3202221163019459959300.jpg",
+    "image": "https://www.myjewishlearning.com/wp-content/uploads/2020/08/ED-PIECEtabbouleh-instant-pot-overhead-pulled-back.jpg",
+    "category_id": 1,
     "ingredients": [
       "1 cup bulgur wheat",
       "2 cups chopped fresh parsley",
@@ -59,6 +74,11 @@
   {
     "id": 4,
     "name": "Mansaf",
+    "chefName": "Sami Tamimi",
+    "chefDescription": "Award-winning Palestinian chef Sami Tamimi is the co-founder and head of the Ottolenghi restaurants, creating new dishes and innovative menus, and writing three bestselling cookbooks: 'Ottolenghi: The Cookbook', 'Jerusalem: A Cookbook' and 'Falastin: A Cookbook'.",
+    "chefPicture": "https://www.tasteofhome.com/wp-content/uploads/2021/11/sami-tamimi-via-instagram-e1637008056865.jpg?resize=700,700",
+    "image": "https://www.munatycooking.com/wp-content/uploads/2022/07/mansaf-feature-image.jpg",
+    "category_id": 2,
     "ingredients": [
       "2 lbs lamb shoulder, cut into chunks",
       "2 cups plain yogurt",
@@ -82,6 +102,11 @@
   {
     "id": 5,
     "name": "Moutabal",
+    "chefName": "Sami Tamimi",
+    "chefDescription": "Award-winning Palestinian chef Sami Tamimi is the co-founder and head of the Ottolenghi restaurants, creating new dishes and innovative menus, and writing three bestselling cookbooks: 'Ottolenghi: The Cookbook', 'Jerusalem: A Cookbook' and 'Falastin: A Cookbook'.",
+    "chefPicture": "https://www.tasteofhome.com/wp-content/uploads/2021/11/sami-tamimi-via-instagram-e1637008056865.jpg?resize=700,700",
+    "image": "https://www.healthylifetrainer.com/wp-content/uploads/2021/10/Mutabal-Recipe-Roasted-Eggplant-Dip-3.jpg",
+    "category_id": 2,
     "ingredients": [
       "2 large eggplants",
       "1/4 cup tahini",
@@ -97,6 +122,11 @@
   {
     "id": 6,
     "name": "Shawarma",
+    "chefName": "Sami Tamimi",
+    "chefDescription": "Award-winning Palestinian chef Sami Tamimi is the co-founder and head of the Ottolenghi restaurants, creating new dishes and innovative menus, and writing three bestselling cookbooks: 'Ottolenghi: The Cookbook', 'Jerusalem: A Cookbook' and 'Falastin: A Cookbook'.",
+    "chefPicture": "https://www.tasteofhome.com/wp-content/uploads/2021/11/sami-tamimi-via-instagram-e1637008056865.jpg?resize=700,700",
+    "image": "https://static.vecteezy.com/system/resources/previews/004/455/244/original/shawarma-lavash-with-meat-and-vegetables-free-photo.jpg",
+    "category_id": 2,
     "ingredients": [
       "1 lb boneless chicken or beef, thinly sliced",
       "1/4 cup plain yogurt",
@@ -119,6 +149,11 @@
   {
     "id": 7,
     "name": "Arabian Chicken Mandi",
+    "chefName": "IZU ANI",
+    "chefDescription": "Nigerian born and London bred Izu Ani is known as a dynamic chef behind some of Dubai’s most exciting projects. He was the head chef at La Petite Maison, and La Serre Bistro and Boulangerie. He has since set up his own restaurants – each focus on various parts of the world, from Asian Aya and Greek Gaia to French-Mediterranean Carine and Fika.",
+    "chefPicture": "https://www.whatawonderfulworld.guide/wp-content/uploads/2020/08/CHEF-IZU-ANI.jpg",
+    "image": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/Shaharban/Arabian_Chicken_Mandhi.jpg",
+    "category_id": 3,
     "ingredients": [
       "2 cups basmati rice",
       "1 whole chicken, cut into pieces",
@@ -140,6 +175,11 @@
   {
     "id": 8,
     "name": "Falafel",
+    "chefName": "IZU ANI",
+    "chefDescription": "Nigerian born and London bred Izu Ani is known as a dynamic chef behind some of Dubai’s most exciting projects. He was the head chef at La Petite Maison, and La Serre Bistro and Boulangerie. He has since set up his own restaurants – each focus on various parts of the world, from Asian Aya and Greek Gaia to French-Mediterranean Carine and Fika.",
+    "chefPicture": "https://www.whatawonderfulworld.guide/wp-content/uploads/2020/08/CHEF-IZU-ANI.jpg",
+    "image": "https://www.travelingeast.com/wp-content/uploads/2012/10/Depositphotos_45941085_xl-2015-1-scaled.jpg",
+    "category_id": 3,
     "ingredients": [
       "2 cups dried chickpeas",
       "1 small onion, roughly chopped",
@@ -159,6 +199,11 @@
   {
     "id": 9,
     "name": "Shawarma Wrap",
+    "chefName": "IZU ANI",
+    "chefDescription": "Nigerian born and London bred Izu Ani is known as a dynamic chef behind some of Dubai’s most exciting projects. He was the head chef at La Petite Maison, and La Serre Bistro and Boulangerie. He has since set up his own restaurants – each focus on various parts of the world, from Asian Aya and Greek Gaia to French-Mediterranean Carine and Fika.",
+    "chefPicture": "https://www.whatawonderfulworld.guide/wp-content/uploads/2020/08/CHEF-IZU-ANI.jpg",
+    "image": "https://lifeloveandgoodfood.com/wp-content/uploads/2020/04/Chicken-Shawarma_09_1200x1200.jpg",
+    "category_id": 3,
     "ingredients": [
       "1 lb boneless chicken or beef, thinly sliced",
       "2 tablespoons olive oil",
@@ -183,6 +228,11 @@
   {
     "id": 10,
     "name": "Kunafa",
+    "chefName": "Shahir Massoud",
+    "chefDescription": "You might recognize Egyptian-Canadian chef Shahir Massoud from national television—most recently, as the former host of CBC’s The Goods, Man of the Kitchen and Around the World in 8 Meals. Shahir is the author of 'Eat, Habibi, Eat!', a cookbook exploring modern Egyptian dishes. He aims to share Egyptian recipes in a way that honors the multiple cultures he grew up with.",
+    "chefPicture": "https://www.tasteofhome.com/wp-content/uploads/2021/11/shahor-massoud-via-instagram.jpg?resize=700,700",
+    "image": "https://butfirstchai.com/wp-content/uploads/2020/06/Cream-kunafa-recipe.jpg",
+    "category_id": 6,
     "ingredients": [
       "1 lb kunafa dough",
       "1 cup unsalted butter, melted",
@@ -200,6 +250,11 @@
   {
     "id": 11,
     "name": "Harees",
+    "chefName": "Shahir Massoud",
+    "chefDescription": "You might recognize Egyptian-Canadian chef Shahir Massoud from national television—most recently, as the former host of CBC’s The Goods, Man of the Kitchen and Around the World in 8 Meals. Shahir is the author of 'Eat, Habibi, Eat!', a cookbook exploring modern Egyptian dishes. He aims to share Egyptian recipes in a way that honors the multiple cultures he grew up with.",
+    "chefPicture": "https://www.tasteofhome.com/wp-content/uploads/2021/11/shahor-massoud-via-instagram.jpg?resize=700,700",
+    "image": "https://tastedrecipes.com/wp-content/uploads/2018/03/Arabic-Chciken-Harees.jpg",
+    "category_id": 6,
     "ingredients": [
       "1 cup cracked wheat",
       "1 cup chicken or lamb, cut into pieces",
@@ -218,6 +273,11 @@
   {
     "id": 12,
     "name": "Kabsa",
+    "chefName": "Shahir Massoud",
+    "chefDescription": "You might recognize Egyptian-Canadian chef Shahir Massoud from national television—most recently, as the former host of CBC’s The Goods, Man of the Kitchen and Around the World in 8 Meals. Shahir is the author of 'Eat, Habibi, Eat!', a cookbook exploring modern Egyptian dishes. He aims to share Egyptian recipes in a way that honors the multiple cultures he grew up with.",
+    "chefPicture": "https://www.tasteofhome.com/wp-content/uploads/2021/11/shahor-massoud-via-instagram.jpg?resize=700,700",
+    "image": "https://www.authenticroyal.com/wp-content/uploads/2022/03/16703_22Ramadan_Lamb-Kabsa-1024x1024.jpg",
+    "category_id": 6,
     "ingredients": [
       "2 cups basmati rice",
       "1 lb chicken, cut into pieces",
@@ -241,7 +301,12 @@
   },
   {
     "id": 13,
-    "recipe_name": "Burak Özdemir's Lahmacun (Turkish Pizza)",
+    "name": "Burak Özdemir's Lahmacun (Turkish Pizza)",
+    "chefName": "Burak Özdemir",
+    "chefDescription": "Burak Özdemir, nicknamed CZN Burak, was born in 1994. He is a Turkish chef and restaurateur, owner of the Hatay Civilizations Table restaurant chain. His famous chain has a total of five branches: Taksim, Aksaray, Etiler, and foreign branches in Dubai, the Kurdistan Region, and Tajikistan, CZN.",
+    "chefPicture": "https://lh3.googleusercontent.com/lfNPl7ZKHGu6hNMYSOqXizjdrZss_10XPJ3tvQXq4lK74Zc-PLTwRey4rORs9vOUFgADwdiIttgGJLoT7ZJdpwSfap6lYSdDochpATbCSpmYh1CNc6vxQIab8pccKAlcVkS5kg9u",
+    "image": "https://images.services.kitchenstories.io/8eqii5oYXLazcqeYsPYqmOZAQdY=/3840x0/filters:quality(85)/images.kitchenstories.io/wagtailOriginalImages/R2292-photo-final-1.jpg",
+    "category_id": 5,
     "ingredients": [
       "For the dough:",
       "500g all-purpose flour",
@@ -275,7 +340,12 @@
   },
   {
     "id": 14,
-    "recipe_name": "Burak Özdemir's Turkish Meatballs (Köfte)",
+    "name": "Burak Özdemir's Turkish Meatballs (Köfte)",
+    "chefName": "Burak Özdemir",
+    "chefDescription": "Burak Özdemir, nicknamed CZN Burak, was born in 1994. He is a Turkish chef and restaurateur, owner of the Hatay Civilizations Table restaurant chain. His famous chain has a total of five branches: Taksim, Aksaray, Etiler, and foreign branches in Dubai, the Kurdistan Region, and Tajikistan, CZN.",
+    "chefPicture": "https://lh3.googleusercontent.com/lfNPl7ZKHGu6hNMYSOqXizjdrZss_10XPJ3tvQXq4lK74Zc-PLTwRey4rORs9vOUFgADwdiIttgGJLoT7ZJdpwSfap6lYSdDochpATbCSpmYh1CNc6vxQIab8pccKAlcVkS5kg9u",
+    "image": "https://images.getrecipekit.com/20221019021205-ko-cc-88fte-20baharat-20kebabs.jpg?aspect_ratio=1:1&quality=90&",
+    "category_id": 5,
     "ingredients": [
       "500g minced beef",
       "1 large onion, grated",
@@ -301,6 +371,11 @@
   {
     "id": 15,
     "name": "Burak Özdemir's Turkish Pide",
+    "chefName": "Burak Özdemir",
+    "chefDescription": "Burak Özdemir, nicknamed CZN Burak, was born in 1994. He is a Turkish chef and restaurateur, owner of the Hatay Civilizations Table restaurant chain. His famous chain has a total of five branches: Taksim, Aksaray, Etiler, and foreign branches in Dubai, the Kurdistan Region, and Tajikistan, CZN.",
+    "chefPicture": "https://lh3.googleusercontent.com/lfNPl7ZKHGu6hNMYSOqXizjdrZss_10XPJ3tvQXq4lK74Zc-PLTwRey4rORs9vOUFgADwdiIttgGJLoT7ZJdpwSfap6lYSdDochpATbCSpmYh1CNc6vxQIab8pccKAlcVkS5kg9u",
+    "image": "https://www.giverecipe.com/wp-content/uploads/2020/08/How-to-make-Turkish-pide.jpg",
+    "category_id": 5,
     "ingredients": [
       "2 cups all-purpose flour",
       "1 teaspoon instant yeast",
@@ -325,6 +400,11 @@
   {
     "id": 16,
     "name": "Salt Bae's Classic Steak",
+    "chefName": "Nusret Gökçe",
+    "chefDescription": "Nusret Gökçe nicknamed Salt Bae, is a Turkish butcher, chef, food entertainer and restaurateur whose technique for preparing and seasoning meat became an Internet meme in January 2017. He owns Nusr-Et, a chain of luxury steak houses. As of 2021, he has Nusr-Et branches in Turkey, Greece, the United States, the United Kingdom, the United Arab Emirates, Qatar, and Saudi Arabia. The name of his restaurant chain comes from his own name and 'Et', which means 'meat' in Turkish.",
+    "chefPicture": "https://lh5.googleusercontent.com/XTHuyNmSvGGKOckjbv9x7i6qizMrX0yDC-8GQnD156pyp2-0iwH8TvPSRupsBq-hRV65hs06vqaZ72C6ivwXgTO33fzLbNKzVRqtqM6Y1uZ4SZz-qFMbYXiMyhvpdM8mgZLPYiVE",
+    "image": "https://i2-prod.mylondon.news/incoming/article24185659.ece/ALTERNATES/s1200c/1_Asda-steak-bay-322-Edit.jpg",
+    "category_id": 4,
     "ingredients": [
       "1 lb steak (such as ribeye or sirloin)",
       "Salt to taste",
@@ -337,6 +417,11 @@
   {
     "id": 17,
     "name": "Salt Bae's Garlic Butter Steak",
+    "chefName": "Nusret Gökçe",
+    "chefDescription": "Nusret Gökçe nicknamed Salt Bae, is a Turkish butcher, chef, food entertainer and restaurateur whose technique for preparing and seasoning meat became an Internet meme in January 2017. He owns Nusr-Et, a chain of luxury steak houses. As of 2021, he has Nusr-Et branches in Turkey, Greece, the United States, the United Kingdom, the United Arab Emirates, Qatar, and Saudi Arabia. The name of his restaurant chain comes from his own name and 'Et', which means 'meat' in Turkish.",
+    "chefPicture": "https://lh5.googleusercontent.com/XTHuyNmSvGGKOckjbv9x7i6qizMrX0yDC-8GQnD156pyp2-0iwH8TvPSRupsBq-hRV65hs06vqaZ72C6ivwXgTO33fzLbNKzVRqtqM6Y1uZ4SZz-qFMbYXiMyhvpdM8mgZLPYiVE",
+    "image": "https://seekinggoodeats.com/wp-content/uploads/2022/04/steak-butter-feature-seeking-good-eats.jpg",
+    "category_id": 4,
     "ingredients": [
       "1 lb steak (such as ribeye or filet mignon)",
       "Salt to taste",
@@ -351,6 +436,11 @@
   {
     "id": 18,
     "name": "Salt Bae's Spicy Chimichurri Steak",
+    "chefName": "Nusret Gökçe",
+    "chefDescription": "Nusret Gökçe nicknamed Salt Bae, is a Turkish butcher, chef, food entertainer and restaurateur whose technique for preparing and seasoning meat became an Internet meme in January 2017. He owns Nusr-Et, a chain of luxury steak houses. As of 2021, he has Nusr-Et branches in Turkey, Greece, the United States, the United Kingdom, the United Arab Emirates, Qatar, and Saudi Arabia. The name of his restaurant chain comes from his own name and 'Et', which means 'meat' in Turkish.",
+    "chefPicture": "https://lh5.googleusercontent.com/XTHuyNmSvGGKOckjbv9x7i6qizMrX0yDC-8GQnD156pyp2-0iwH8TvPSRupsBq-hRV65hs06vqaZ72C6ivwXgTO33fzLbNKzVRqtqM6Y1uZ4SZz-qFMbYXiMyhvpdM8mgZLPYiVE",
+    "image": "https://aubreyskitchen.com/wp-content/uploads/2022/08/spicy-chimichurri-recipe.jpg",
+    "category_id": 4,
     "ingredients": [
       "1 lb steak (such as skirt steak or flank steak)",
       "Salt to taste",
